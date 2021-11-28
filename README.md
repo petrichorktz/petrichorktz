@@ -4,8 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/petrichorktz](https://github.com/petrichorktz)
 
 - 📫 How to reach me **july.petrichor896@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
