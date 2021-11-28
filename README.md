@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 <h1 align="center">Hi 👋, I'm Khaing Thazin</h1>
 <h3 align="center">A passionate backend developer from Myanmar.</h3>
 
