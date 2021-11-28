@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/petrichorktz/petrichorktz/blob/main/FB_IMG_1600629925046.jpg)
 
 <h1 align="center">Hi 👋, I'm Khaing Thazin</h1>
 <h3 align="center">A passionate backend developer from Myanmar.</h3>
