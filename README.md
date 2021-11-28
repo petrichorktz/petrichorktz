@@ -1,11 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on freelance
-- 🌱 I’m currently learning inertia
-- 👯 I’m looking to collaborate on IT friends.
-- 💬 Ask me about laravel.
-- 📫 How to reach me: july.petrichor896@gmail.com
-
 <h1 align="center">Hi 👋, I'm Khaing Thazin</h1>
 <h3 align="center">A passionate backend developer from Myanmar.</h3>
 
